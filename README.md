@@ -4,8 +4,7 @@
 
 <h3>👋 Hi, I'm Changhong He</h3>
 
-🌱 My interests are multimodal learning, large models, and their applications in robotics.
-
+🌱 My interests are multimodal learning, large models, and their applications in robotics.<br>
 📫 How to reach me: hechanghong.ouc@gmail.com
 
 💻 Technologies:<br>
@@ -15,7 +14,7 @@
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SensorimotorH&show_icons=true&theme=default" />
+<img src="https://github-readme-stats-sensorimotorh.vercel.app/api?username=SensorimotorH&show_icons=true&theme=default&cache_seconds=1800" />
 
 </td>
 </tr>
