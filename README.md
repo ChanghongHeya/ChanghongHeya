@@ -6,10 +6,13 @@
     <td width="60%" valign="top">
       <h2>👋 Hi, I'm Changhong He</h2>
 
+      <p><strong>📫 Contact</strong></p>
+      <p>Email: <a href="mailto:hechanghong.ouc@gmail.com">hechanghong.ouc@gmail.com</a></p>
+
       <p><strong>🎓 Education &amp; Research</strong></p>
       <ul>
-        <li>🌱 Research Interests: Multimodal learning, Large models, robotics</li>
-        <li>💼 Focus on perception, planning and control with foundation models for robotics</li>
+        <li>🌱 Interests: multimodal learning, large models, robotics</li>
+        <li>💼 Focus: perception, planning and control with foundation models for robotics</li>
       </ul>
 
       <p><strong>🛠️ Tech Stack</strong></p>
@@ -21,14 +24,50 @@
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
       </p>
+
+      <p><strong>🔬 Research Areas</strong></p>
+      <ul>
+        <li>Robot perception with vision-language models</li>
+        <li>Motion planning and control learning</li>
+        <li>Sim-to-real transfer for robotic systems</li>
+        <li>Autonomous navigation and manipulation</li>
+      </ul>
+
+      <p><strong>📁 Featured Projects</strong></p>
+      <ul>
+        <li>🤖 <a href="#">Robot Foundation Models</a> — large-scale robot learning</li>
+        <li>🎯 <a href="#">Visual Navigation</a> — vision-based navigation</li>
+        <li>🧠 <a href="#">Multimodal RL</a> — RL with multiple sensors</li>
+      </ul>
     </td>
 
     <!-- RIGHT: GitHub Stats -->
     <td width="40%" valign="top">
       <h2>📊 GitHub Statistics</h2>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ChanghongHeya&amp;show_icons=true&amp;theme=default&amp;hide_title=true&amp;count_private=true"
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChanghongHeya&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_title=true"
              alt="GitHub Stats" style="max-width:100%;" />
+      </div>
+
+      <h3>🔤 Top Languages</h3>
+      <div align="center">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChanghongHeya&amp;layout=compact"
+             alt="Top Languages" style="max-width:100%;" />
+      </div>
+
+      <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanghongHeya"
+             alt="GitHub Streak" style="max-width:100%;" />
+      </div>
+
+      <div align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=ChanghongHeya&amp;theme=flat&amp;no-frame=true&amp;margin-w=10&amp;row=2&amp;column=4"
+             alt="GitHub Trophies" style="max-width:100%;" />
+      </div>
+
+      <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanghongHeya&amp;theme=github&amp;area=true&amp;hide_border=true"
+             alt="Activity Graph" style="max-width:100%;" />
       </div>
     </td>
   </tr>
