@@ -8,9 +8,9 @@
 ## 👋 Hi, I'm Changhong He
 
 **🔬 Research Areas**
-- 🤖 [Robot Foundation Models] - World Models for Robotic Navigation 
-- 🧠 [3D World] - 3D model generation and anomaly detection
-- 🕸️ [Spatiotemporal Graphs] - LLMs for spatiotemporal graph modeling (representation, forecasting, causal discovery)
+- 🤖 [Embodied AI] - Robot learning for navigation and manipulation
+- 🌍 [World Models] - Predictive modeling for embodied agents
+- 🧠 [Reinforcement Learning] - Decision-making, planning, and policy optimization
 
     </td>
 
